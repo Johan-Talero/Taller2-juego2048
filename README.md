@@ -1,1 +1,1 @@
-# 2048Talero
+# Johan Talero - 20201578020
